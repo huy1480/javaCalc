@@ -1,3 +1,8 @@
+/**
+  * This program is a very simple four-function calculator
+  * in Java.
+**/
+
 import java.util.Scanner;
 
 public class javaCalc {
